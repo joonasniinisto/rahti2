@@ -2,11 +2,8 @@ import "./styles.css";
 
 document.getElementById("board").innerHTML = `
 
-<h1>Tic Tac Toe</h1>
 
-
-<h2>PLAYER 1 plays with X</h2>
-<h3>PLAYER 2 plays with O </h3`;
+`;
 
 var counter = 0;
 
