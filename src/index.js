@@ -1,10 +1,5 @@
 import "./styles.css";
 
-document.getElementById("board").innerHTML = `
-
-
-`;
-
 var counter = 0;
 
 var myVar;
